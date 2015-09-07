@@ -1,0 +1,28 @@
+﻿body{
+    font-family: verdana, geneva, sans-serif;
+    font-size: 75%;
+}
+
+body div#content div.hentry{
+    text-align: left;
+}
+body div#content h2,div#content h3,div#content h4,div#content h5,div#content h6{
+    font-family: verdana, geneva, sans-serif;
+}
+body div.sidebar{
+    text-align: right;
+}
+body div#container{
+    float: right;
+    margin: 0 0 0 -200px;
+}
+body div#content{
+    margin: 0 20px 0 200px;
+}
+body div#primary{
+    float: left;
+}
+body div.sidebar{
+    border-right: 0px solid #000;
+    padding-right: 15px;
+}
